@@ -90,7 +90,7 @@ void editEvent(string a){
 
 void voteEvent(string z){
 
-    cout << "add" ;
+    
     
 }
 
@@ -146,8 +146,6 @@ int main()
     }
     while(number != 5) ;
     
-    cout << "---------------------------------" ;
-    cout << "9999999999999999" ;
-
+    
     return 0;
 }
