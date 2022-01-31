@@ -90,7 +90,7 @@ void editEvent(string a){
 
 void voteEvent(string z){
 
-    
+    cout << "-------------" ;
     
 }
 
